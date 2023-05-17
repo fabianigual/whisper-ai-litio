@@ -1,4 +1,4 @@
-# Whisper AI para transcrición a documentos en formato markdown
+# Whisper AI para transpcrición a documentos en formato markdown
 
 El objetivo inicial del repositorio es utilizar `Whisper AI` para transcribir una entrevista del vicepresidente de CORFO acerca de la `Estrategia nacional del Litio`, a un documento
 en formato markdown, el cual cuente con una estructura de minuta y que resuma los principales  
